@@ -6,7 +6,7 @@
 <p align="center">
 
 ## Moodify
-Moddify will boost your current mood. Whether you are happy, sad, angry, surprised, it will present you with quotes, videos and posts that will improve your mood to a great extent. This application uses emotion recognition to predict the emotion of the user by scanning their face. 
+Moodify will boost your current mood. Whether you are happy, sad, angry, surprised, it will present you with quotes, videos and posts that will improve your mood to a great extent. This application uses emotion recognition to predict the emotion of the user by scanning their face. 
 
 ## :camera: Screenshots
 <table>
