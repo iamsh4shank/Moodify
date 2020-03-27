@@ -5,7 +5,7 @@
 </p>
 <p align="center">
 <p align="center">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/AwesomeFruitSalad/CrimsonLychee" />
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/MoodFix" />
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/AwesomeFruitSalad/CrimsonLychee" />
   
 </p>
